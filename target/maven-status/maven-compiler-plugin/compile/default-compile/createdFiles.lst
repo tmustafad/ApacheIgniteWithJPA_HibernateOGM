@@ -1,0 +1,5 @@
+com\ignite\jpa\MainIgnite_jpa\StartApp.class
+com\ignite\jpa\MainIgnite_jpa\StartCache.class
+com\ignite\jpa\domain\Employee.class
+com\ignite\jpa\domain\Department.class
+com\ignite\jpa\configuration\IgniteConfig.class
